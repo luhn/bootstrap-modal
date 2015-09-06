@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-modal",
+  "version": "3.3.5",
+  "homepage": "http://getbootstrap.com/",
+  "authors": [
+    "Twitter",
+    "Inc."
+  ],
+  "description": "Twitter Bootstrap's modal library as an AMD module.",
+  "main": "modal.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
